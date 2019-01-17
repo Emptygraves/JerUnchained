@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Parallax](#parallax)
 - [Introtext](#introtext)
-- [Social icons](#social icons)
+- [Socialicons](#socialicons)
 - [Listanimation](#listanimation)
 
 ## Parallax
